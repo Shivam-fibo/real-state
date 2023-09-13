@@ -80,7 +80,13 @@ a {
   justify-content: center;
   align-items: flex-end;
 }
-
+.primaryText{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.secondaryText{
+  color: rgb(140, 139, 139);
+}
 .primarytext {
   color: #1f3e72;
   font-weight: bold;

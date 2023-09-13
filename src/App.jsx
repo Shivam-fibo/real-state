@@ -4,6 +4,10 @@ import Hero from './Components/Hero/Hero'
 import './App.css'
 import Companies from './Components/Companies/Companies';
 import Residence from './Components/Residence/Residence';
+import Value from './Components/Value/Value';
+import Contact from './Components/Contact/Contact';
+import GetStarted from './Components/GetStarted/GetStarted';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +19,10 @@ function App() {
     </div>
       <Companies/>
       <Residence/>
+       <Value/>
+       <Contact/>
+        <GetStarted/>
+         <Footer/>
     </div>
   );
 }
